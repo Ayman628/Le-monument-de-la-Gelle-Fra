@@ -29,5 +29,5 @@
 </p>
 </details>
 
-# AVAIS :
+# AVIS :
 * On a choisi la photo car elle représente une femme en train d’aider les blessés. Nous sommes des femmes issues de pays où la fille ou la femme est considérée comme un bien. Quelquefois nos droits ne sont toujours pas respectés ou notre voix entendue.  
