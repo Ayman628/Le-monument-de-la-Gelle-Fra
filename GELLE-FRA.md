@@ -1,16 +1,6 @@
-# Le-monument-de-la-Gelle-Fra
+# ***Le-monument-de-la-Gelle-Fra***
 
-<details><summary>About</summary>
-<p>
-
-* **Groupe** : Ornella, Anni et Ruxi
-* **Classe** : 2TCSTRF
-* **Matière** : EDUCI 4
-  
-</p>
-</details>  
-
-#  Introduction : 
+  Introduction : 
 * Le monument de la Gëlle Fra n’est plus à présenter.  
 
 - Il est parmi les monuments à la mémoire de ceux qui sont tombées sur le champ de batailles plus particulièrement pendant les ***Première et Seconde Guerre Mondiale***.
@@ -30,3 +20,14 @@
 
 # AVIS :
 * On a choisi la photo car elle représente une femme en train d’aider les blessés. Nous sommes des femmes issues de pays où la fille ou la femme est considérée comme un bien. Quelquefois nos droits ne sont toujours pas respectés ou notre voix entendue.  
+
+<details><summary>About</summary>
+<p>
+
+* **Groupe** : Ornella, Anni et Ruxi
+* **Classe** : 2TCSTRF
+* **Matière** : EDUCI 4
+  
+</p>
+</details>  
+
