@@ -1,15 +1,14 @@
 # Le-monument-de-la-Gelle-Fra
 
-
-<details><summary>Participants</summary>
+<details><summary>About</summary>
 <p>
 
-* > KEZA ORNELLA IMMA
-* > LI Anni 
-* > KANG Ruxi
-
+* **Groupe** : Ornella, Anni et Ruxi
+* **Classe** : 2TCSTRF
+* **Matière** : EDUCI 4
+  
 </p>
-</details>
+</details>  
 
 #  Introduction : 
 * Le monument de la Gëlle Fra n’est plus à présenter.  
